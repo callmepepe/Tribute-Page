@@ -50,5 +50,33 @@ Main
 */
 
 * {
-  background-color: #626363;
+  background-color: #F5F0F6;
 }
+
+/*
+Header
+*/
+
+.title {
+  text-transform: uppercase;
+  background-color: #D7B377;
+  color: #718367;
+  padding: 20px;
+  text-align: center;
+}
+
+/*
+Nav
+*/
+
+/*
+IMG
+*/
+
+/*
+Content
+*/
+
+/*
+Footer
+*/
