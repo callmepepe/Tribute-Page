@@ -69,6 +69,22 @@ Header
 Nav
 */
 
+.navigation {
+
+}
+
+.navigation ul {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  background-color: #A7CECB;
+}
+
+.navigation ul li {
+  color: #F5F0F6;
+  background-color: inherit;
+}
+
 /*
 IMG
 */
