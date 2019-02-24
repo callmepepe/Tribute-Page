@@ -99,9 +99,23 @@ Nav
 IMG
 */
 
-#img-div {
+#img-div img {
   float: right;
   border: 2px solid #A7CECB;
+  background-color: #A7CECB;
+  padding: 10px;
+}
+
+#img-div figcaption {
+  background-color: #A7CECB;
+  padding: 0;
+}
+
+#img-div figcaption a {
+  background-color: #A7CECB;
+  padding: 0;
+  color: #F5F0F6;
+  text-decoration: none;
 }
 
 /*
