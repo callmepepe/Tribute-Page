@@ -77,6 +77,7 @@ Nav
   padding: 10px;
   display: flex;
   flex-flow: row;
+  flex-wrap: wrap;
   justify-content: space-around;
   background-color: #A7CECB;
 }
@@ -102,6 +103,12 @@ IMG
 /*
 Content
 */
+
+#tribute-info ul li {
+  background-color: #D7B377;
+  color: #8F754F;
+}
+
 
 /*
 Footer
