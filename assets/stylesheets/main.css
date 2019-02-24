@@ -74,6 +74,7 @@ Nav
 }
 
 .navigation ul {
+  padding: 10px;
   display: flex;
   flex-flow: row;
   justify-content: space-around;
@@ -81,8 +82,17 @@ Nav
 }
 
 .navigation ul li {
+
+}
+
+.navigation ul li a {
   color: #F5F0F6;
-  background-color: inherit;
+  background-color: #A7CECB;
+  text-decoration: none;
+}
+
+.navigation ul li a:hover {
+  color: #869D7A;
 }
 
 /*
