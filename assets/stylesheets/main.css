@@ -51,6 +51,7 @@ Main
 
 * {
   background-color: #D7B377;
+  color: #3A2E39;
 }
 
 
@@ -105,10 +106,12 @@ IMG
 /*
 Content
 */
+#tribute-info {
+  margin: 10px;
+}
 
 #tribute-info ul li {
-  background-color: #D7B377;
-  color: #8F754F;
+  padding: 3px;
 }
 
 
