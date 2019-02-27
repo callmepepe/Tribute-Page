@@ -1,6 +1,11 @@
 /*
 CSS Reset
 */
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -44,77 +49,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-/*
-Main
-*/
-
-* {
-  background-color: #D7B377;
-  color: #3A2E39;
-}
-
-
-
-/*
-Header
-*/
-
-.title {
-  text-transform: uppercase;
-  color: #718367;
-  padding: 20px;
-  text-align: center;
-}
-
-/*
-Nav
-*/
-
-.navigation {
-
-}
-
-.navigation ul {
-  padding: 10px;
-  display: flex;
-  flex-flow: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  background-color: #A7CECB;
-}
-
-.navigation ul li {
-
-}
-
-.navigation ul li a {
-  color: #F5F0F6;
-  background-color: #A7CECB;
-  text-decoration: none;
-}
-
-.navigation ul li a:hover {
-  color: #869D7A;
-}
-
-/*
-IMG
-*/
-
-
-/*
-Content
-*/
-#tribute-info {
-  margin: 10px;
-}
-
-#tribute-info ul li {
-  padding: 3px;
-}
-
-
-/*
-Footer
-*/
